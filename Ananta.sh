@@ -26,7 +26,7 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-figlet TUAN B4DUT  | lolcat
+figlet Ananta1807  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
 echo -b "TYPE      : TOOLS INSTALLER $green " |lolcat
@@ -2988,7 +2988,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 echo "Ananta1807 ON YOUR SYSTEM" | lolcat
 echo "INDONESIAN TERMUX ASSOCIATION" | lolcat
 echo "SEMUA TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS GUA" | lolcat
-figlet TUAN B4DUT | lolcat
+figlet Ananta1807 | lolcat
 exit
 ;;
 
